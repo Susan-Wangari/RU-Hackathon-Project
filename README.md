@@ -8,8 +8,4 @@
 
 ![Screenshot (64)](https://user-images.githubusercontent.com/56164343/120172198-764b3080-c20b-11eb-9ffe-05c5734f553c.png)
 
-![Screenshot (60)](https://user-images.githubusercontent.com/56164343/120172201-76e3c700-c20b-11eb-9477-a82c9a0f0920.png)
-
-![Screenshot (61)](https://user-images.githubusercontent.com/56164343/120172205-7814f400-c20b-11eb-9fc9-b1fbf870c7b8.png)
-
 ![Screenshot (62)](https://user-images.githubusercontent.com/56164343/120172211-79462100-c20b-11eb-83d9-2b18c6b0e0b3.png)
